@@ -1,1 +1,1 @@
-print("Github is working!")
+print("this my first update to Github!")
